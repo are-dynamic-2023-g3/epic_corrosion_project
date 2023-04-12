@@ -50,8 +50,8 @@ On a voulu étudier le changement de concentration d'oxygène et de rouille à p
 
 Pour cela, on a utilisé les taux de réaction anodique et cathodique en calculant leurs potentiels d'équilibre avec les formules suivantes :
  
- #insert pic of les equations Futur Lyna !!!!
- 
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/125261904/231562591-96aefb22-2271-4c0c-82f6-5d07c165bb87.png">
+
 La simulation est effectuée en utilisant la fonction solve_ivp de NumPy pour résoudre les équations différentielles, et les résultats sont tracés à l'aide de Matplotlib.
 
 En initialisant les concentrations de l'oxygène, de la rouille et de l'eau à 1 mol/m^3, 0 mol/m^3 et à 55,5 mol/m^3, respectivement, et en mettant la température à 298 K, on obtient ces graphes :

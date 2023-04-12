@@ -49,8 +49,41 @@ Notre fonction calcule la vitesse de la reaction anodique qui convertit le fer e
   ![download](https://user-images.githubusercontent.com/125261904/231418324-cd0fc7eb-a301-492b-84f1-18f2016825c5.png)
 
 
-   
-  On a ensuite voulu modeliser les reactions anodiques et cathodiques en utilisant la methode de Butler-Volmer.
+ On a voulu etudier le changement de concentration de l'oxygene et de la rouille a partir d'une reaction electrochimique appelee reaction de Butler-Volmer.
+ 
+ Pour ca, on a utilise les taux de reaction anodique et cathodique en calculant leurs potentiels d'equilibre avec les formules suivantes:
+ 
+ #insert pic of les equations Futur Lyna !!!!
+ 
+ La simulation est effectuee en utilisant la fonction solve_ivp de NumPy pour resoudre les equations differentielles et les resultats sont traces a l'aide de Matplotlib.
+ 
+ En initialisant les concentrations de l'oxygene,de la rouille et de l'eau a 1 mol/m^3 , 0 mol/m^3 et a 55.5 mol/m^3 respectivement et en mettant la temperature a 298° K, on obtient ces graphes :
+
+
+  ![download](https://user-images.githubusercontent.com/125261904/231439849-4817d0e2-c67e-4732-a0de-d21e1122680c.png)
+  
+  en mettant les concentrations a 0.5 mol/m^3 chacune , on a :
+  
+  ![download](https://user-images.githubusercontent.com/125261904/231440556-ecdfdfe2-d451-496b-b5ba-e167889f6477.png)
+  
+  en augmentant la temperature jusqu'a 500° K, on a:
+  
+  ![download](https://user-images.githubusercontent.com/125261904/231441926-c0517e69-d5d9-43f7-86db-fe1b8f985b63.png)
+  
+  en mettant les concentrations de l'oxygene et de la rouille,a 0.7 mol/m^3 et a 0.3 mol/m^3 respectivement, et en augmentant la concentration de l'eau a 100 mol/m^3 on a comme resultat :
+  
+  ![download](https://user-images.githubusercontent.com/125261904/231443198-0cc5e5f8-a485-4e33-8032-7250b4c365d0.png)
+
+On a aussi trace les densites de courant anodique et cathodique en fonction du potentiel:
+
+![download](https://user-images.githubusercontent.com/125261904/231443740-377d8d90-343a-41b5-a0f6-7351ba59b245.png)
+
+
+  
+  
+
+  
+  
   
   
    

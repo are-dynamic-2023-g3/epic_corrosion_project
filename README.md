@@ -6,6 +6,7 @@ Nous avons utilisé les formules des réactions anodique et cathodique :
 
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/125261904/231500682-3cf1d9dc-0adb-420d-b6e5-d57ffa3c1a9e.png">
 
+![download](https://user-images.githubusercontent.com/125261904/232252157-41356db6-7a67-41fb-b3bb-2fa0b11068d0.png)
 
 Notre fonction calcule la vitesse de la réaction anodique qui convertit le fer en ions Fe2+ en présence d'eau en utilisant l'équation suivante :
 
@@ -33,17 +34,17 @@ Les conditions initiales sont :
 
 avec les constantes de vitesse de 0.01 et 0.02, respectivement.
   
-  
-  ![download](https://user-images.githubusercontent.com/125261904/231407468-63b83999-7980-40ab-b114-54884f0c0a55.png)
-  
+  ![download](https://user-images.githubusercontent.com/125261904/232252188-b607bc2f-a471-4902-8e6d-6109e88e00d9.png)
+
   Avec les constantes de vitesse de 0.08 et 0.06 respectivement:
   
-  ![download](https://user-images.githubusercontent.com/125261904/231417890-97a5b57e-e632-47e8-922b-494e1c8fef92.png)
-  
+  ![download](https://user-images.githubusercontent.com/125261904/232252166-198311ef-5483-49f8-8ca0-1be5f8496285.png)
+
   En modifiant la concentration d'eau à 0,5 mol/m^3, on obtient :
   
-  ![download](https://user-images.githubusercontent.com/125261904/231418324-cd0fc7eb-a301-492b-84f1-18f2016825c5.png)
-
+  
+  ![download](https://user-images.githubusercontent.com/125261904/232252210-30e802cb-b45a-43d5-be14-f7f7b26d4335.png)
+  
 
 On a voulu étudier le changement de concentration d'oxygène et de rouille à partir d'une réaction électrochimique appelée réaction de Butler-Volmer.
 

@@ -16,7 +16,7 @@ def rusting(y, t, k1, k2):
     d_iron = -r_anodic
     d_fe2 = r_anodic - r_cathodic
     d_oxygen = -r_cathodic
-    d_water = r_cathodic
+    d_water = -r_cathodic
 
     return [d_iron, d_fe2, d_oxygen, d_water]Points de temps à évaluer
   

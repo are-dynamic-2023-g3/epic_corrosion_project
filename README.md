@@ -1,4 +1,4 @@
-# epic_corrosion_project
+# corrosion_project
 
 La formation de la rouille sur le fer est un processus chimique qui se produit lorsque le fer réagit avec l'oxygène et l'eau. Afin de modéliser ce processus, nous avons commencé par établir une fonction "Rusting" qui prend en paramètres les concentrations de fer, d'ions Fe2+, d'oxygène et d'eau, ainsi que deux constantes de vitesse.
 

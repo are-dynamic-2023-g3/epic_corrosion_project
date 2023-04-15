@@ -32,12 +32,12 @@ Les conditions initiales sont :
 
  concentration d'eau = 0 mol/m^3
 
-avec les concentrations de vitesse de 0.01 et 0.02, respectivement.
+avec les constantes de vitesse de 0.01 et 0.02, respectivement.
   
   
   ![download](https://user-images.githubusercontent.com/125261904/231407468-63b83999-7980-40ab-b114-54884f0c0a55.png)
   
-  Avec les concentrations de vitesse de 0.08 et 0.06 respectivement:
+  Avec les constantes de vitesse de 0.08 et 0.06 respectivement:
   
   ![download](https://user-images.githubusercontent.com/125261904/231417890-97a5b57e-e632-47e8-922b-494e1c8fef92.png)
   

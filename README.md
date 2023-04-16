@@ -73,7 +73,9 @@ On a aussi tracé les densités de courant anodique et cathodique en fonction du
 
 
   
-  
+ D’après les graphes précédents, nous remarquons qu’augmenter la concentrations de différents facteurs et changer les conditions environnementales initiales a un fort impact sur la vitesse du processus de corrosion.
+
+On en déduit donc que plus la température et la concentration d’oxygène et d’eau sont élevées, plus la rouille se forme rapidement.
 
   
   

@@ -67,9 +67,6 @@ En initialisant les concentrations de l'oxygène, de la rouille et de l'eau à 1
  
   ![download](https://user-images.githubusercontent.com/125261904/232291103-e2faefbb-608d-46aa-b66c-387692b19762.png)
 
- En augmentant la concentration de l'eau à 100 mol/m^3, on obtient comme résultat :
-  
-![download](https://user-images.githubusercontent.com/125261904/232291121-61d909fa-da86-4392-954d-f37aa5ca0b69.png)
 
 On a aussi tracé les densités de courant anodique et cathodique en fonction du potentiel :
 

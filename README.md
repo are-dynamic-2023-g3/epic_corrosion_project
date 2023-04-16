@@ -63,10 +63,9 @@ En initialisant les concentrations de l'oxygène, de la rouille et de l'eau à 1
 
 ![download](https://user-images.githubusercontent.com/125261904/232291067-86a62de4-7972-4f96-a4cc-1f611073c22f.png)
 
- En augmentant la température jusqu'à 500 K, on a :
+ En augmentant la température jusqu'à 323 K, on a :
  
-  ![download](https://user-images.githubusercontent.com/125261904/232291103-e2faefbb-608d-46aa-b66c-387692b19762.png)
-
+  ![download](https://user-images.githubusercontent.com/125261904/232295759-f50a1cf6-a633-4b6b-a690-a1c216689d7e.png)
 
 On a aussi tracé les densités de courant anodique et cathodique en fonction du potentiel :
 

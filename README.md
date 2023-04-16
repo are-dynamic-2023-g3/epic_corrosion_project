@@ -6,7 +6,6 @@ Nous avons utilisé les formules des réactions anodique et cathodique :
 
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/125261904/231500682-3cf1d9dc-0adb-420d-b6e5-d57ffa3c1a9e.png">
 
-![download](https://user-images.githubusercontent.com/125261904/232252157-41356db6-7a67-41fb-b3bb-2fa0b11068d0.png)
 
 Notre fonction calcule la vitesse de la réaction anodique qui convertit le fer en ions Fe2+ en présence d'eau en utilisant l'équation suivante :
 

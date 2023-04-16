@@ -59,17 +59,17 @@ En initialisant les concentrations de l'oxygène, de la rouille et de l'eau à 1
 
   ![download](https://user-images.githubusercontent.com/125261904/231439849-4817d0e2-c67e-4732-a0de-d21e1122680c.png)
   
- En mettant les concentrations à 0,5 mol/m^3 chacune, on obtient :
-  
-  ![download](https://user-images.githubusercontent.com/125261904/231440556-ecdfdfe2-d451-496b-b5ba-e167889f6477.png)
-  
+ En mettant la concentration l'oxygène à 3 mol/m^3 ,on a :
+
+![download](https://user-images.githubusercontent.com/125261904/232291067-86a62de4-7972-4f96-a4cc-1f611073c22f.png)
+
  En augmentant la température jusqu'à 500 K, on a :
+ 
+  ![download](https://user-images.githubusercontent.com/125261904/232291103-e2faefbb-608d-46aa-b66c-387692b19762.png)
+
+ En augmentant la concentration de l'eau à 100 mol/m^3, on obtient comme résultat :
   
-  ![download](https://user-images.githubusercontent.com/125261904/231441926-c0517e69-d5d9-43f7-86db-fe1b8f985b63.png)
-  
- En mettant les concentrations de l'oxygène et de la rouille à 0,7 mol/m^3 et 0,3 mol/m^3 respectivement, et en augmentant la concentration de l'eau à 100 mol/m^3, on obtient comme résultat :
-  
-  ![download](https://user-images.githubusercontent.com/125261904/231443198-0cc5e5f8-a485-4e33-8032-7250b4c365d0.png)
+![download](https://user-images.githubusercontent.com/125261904/232291121-61d909fa-da86-4392-954d-f37aa5ca0b69.png)
 
 On a aussi tracé les densités de courant anodique et cathodique en fonction du potentiel :
 
